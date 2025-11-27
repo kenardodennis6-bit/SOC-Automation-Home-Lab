@@ -4,13 +4,13 @@
 For this project, I created a small SOC environment from scratch and automated the whole alerting workflow. The aim is to set up Wazuh for collecting logs and producing alerts, connect that to Shuffle to automate response steps, and then push those into TheHive so they can be tracked as real incidents. Within the span of the project, I was able to achieve an effective pipeline that ingested telemetry, which triggered automated workflows, creating cases against which an investigation could be launched. This allowed me to understand how modern SOC teams have been streamlining detection and response with SIEM + SOAR tools.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Gained hands-on experience configuring Wazuh as a SIEM and monitoring endpoint activity with agents.
+- Learned how to build automated SOC playbooks in Shuffle to process alerts and run enrichment steps.
+- Integrated Wazuh and Shuffle with TheHive so alerts automatically turned into cases for analysts to review.
+- Improved my understanding of how SOC environments are structured and how alerts move through the pipeline.
+- Developed troubleshooting skills while working through API connections, webhooks, and tool integrations.
+- Strengthened my ability to interpret security alerts and understand how they fit into an incident-response workflow.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
