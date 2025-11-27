@@ -57,7 +57,7 @@ This screenshot shows the cloud virtual machine configuration used to deploy Waz
 ---
 
 *Wazuh Agent Connection*  
-![Wazuh Agents](https://imgur.com/YDR1jxU.png)  
+![Wazuh Agents](https://imgur.com/bmHYrRs.png)  
 This screenshot displays the Wazuh dashboard with connected agents. It confirms that telemetry from the endpoint is successfully being ingested by the SIEM and that the agent installation and communication pipeline are functioning correctly.
 
 
@@ -76,7 +76,7 @@ This screenshot shows the telemetry generated from a simulated credential extrac
 ---
 
 *Wazuh Alert Triggered*  
-![Wazuh Alert](https://i.imgur.com/placeholder.png)  
+![Wazuh Alert](https://imgur.com/YDR1jxU.png)  
 This screenshot captures the Wazuh alert triggered by the simulated Mimikatz activity. It demonstrates the SIEM’s detection capability and confirms that rules and decoders are properly configured.
 
 ---
@@ -97,8 +97,3 @@ This screenshot shows the automatically created case in TheHive after Shuffle pr
 ![Email Notification](https://imgur.com/fXYAhEp.png)  
 This screenshot displays the automated email sent by Shuffle whenever a high-severity alert is converted into a case. 
 
----
-
-*Ref 11: Troubleshooting & Fixes*  
-![Troubleshooting](https://i.imgur.com/placeholder.png)  
-This section contains screenshots of errors encountered during the lab setup and the solutions applied. 
