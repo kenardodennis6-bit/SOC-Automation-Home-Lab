@@ -1,9 +1,7 @@
 # SOC-Automation-Home-Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+For this project, I created a small SOC environment from scratch and automated the whole alerting workflow. The aim is to set up Wazuh for collecting logs and producing alerts, connect that to Shuffle to automate response steps, and then push those into TheHive so they can be tracked as real incidents. Within the span of the project, I was able to achieve an effective pipeline that ingested telemetry, which triggered automated workflows, creating cases against which an investigation could be launched. This allowed me to understand how modern SOC teams have been streamlining detection and response with SIEM + SOAR tools.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
