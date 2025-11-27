@@ -20,11 +20,6 @@ For this project, I created a small SOC environment from scratch and automated t
 
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
 
 *Network Diagram*  
 ![Network Diagram](https://i.imgur.com/placeholder.png)
