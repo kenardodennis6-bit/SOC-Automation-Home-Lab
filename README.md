@@ -88,13 +88,13 @@ This screenshot shows the Shuffle SOAR workflow used to automate the alert-handl
 ---
 
 *Auto-Generated Case in TheHive*  
-![TheHive Case](https://i.imgur.com/placeholder.png)  
+![TheHive Case](https://imgur.com/LcQq79i.png)  
 This screenshot shows the automatically created case in TheHive after Shuffle processed the alert. This demonstrates end-to-end SOC automation: detection → enrichment → case creation.
 
 ---
 
 *Ref 10: Automated Email Notification (Day 5)*  
-![Email Notification](https://i.imgur.com/placeholder.png)  
+![Email Notification](https://imgur.com/fXYAhEp.png)  
 This screenshot displays the automated email sent by Shuffle whenever a high-severity alert is converted into a case. 
 
 ---
