@@ -56,16 +56,25 @@ This screenshot displays the Wazuh dashboard with connected agents. It confirms 
 ---
 
 *API Connections Between Wazuh, Shuffle, and TheHive*  
-<table>
+<table style="border-collapse: collapse; margin: auto;">
   <tr>
-    <td><img src="https://imgur.com/TLimMD9.png" width="350"></td>
-    <td><img src="https://imgur.com/4pd9q1I.png" width="350"></td>
+    <td style="padding: 6px;">
+      <img src="https://imgur.com/TLimMD9.png" width="330">
+    </td>
+    <td style="padding: 6px;">
+      <img src="https://imgur.com/4pd9q1I.png" width="330">
+    </td>
   </tr>
   <tr>
-    <td><img src="https://imgur.com/WgBpkit.png" width="350">
-    <td><img src="https://imgur.com/s4nuoOU.png" width="350"></td>
+    <td style="padding: 6px;">
+      <img src="https://imgur.com/WgBpkit.png" width="330">
+    </td>
+    <td style="padding: 6px;">
+      <img src="https://imgur.com/s4nuoOU.png" width="330">
+    </td>
   </tr>
 </table>
+
 
 
 
