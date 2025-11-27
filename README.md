@@ -57,13 +57,14 @@ This screenshot shows the cloud virtual machine configuration used to deploy Waz
 ---
 
 *Ref 4: Wazuh Agent Connection (Day 3)*  
-![Wazuh Agents](https://imgur.com/YDR1jxU)  
+![Wazuh Agents](https://imgur.com/YDR1jxU.png)  
 This screenshot displays the Wazuh dashboard with connected agents. It confirms that telemetry from the endpoint is successfully being ingested by the SIEM and that the agent installation and communication pipeline are functioning correctly.
+
 
 ---
 
 *Ref 5: API Connections Between Wazuh, Shuffle, and TheHive (Day 3)*  
-![API Connections](https://i.imgur.com/placeholder.png)  
+![API Connections](https://imgur.com/TLimMD9.png)  
 This screenshot verifies that API connections were successfully established between all tools. These integrations enable automated alert forwarding, enrichment, and case creation across the SOC stack.
 
 ---
