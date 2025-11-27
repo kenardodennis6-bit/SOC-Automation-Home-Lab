@@ -13,13 +13,12 @@ For this project, I created a small SOC environment from scratch and automated t
 - Strengthened my ability to interpret security alerts and understand how they fit into an incident-response workflow.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
+- Wazuh: Used for log collection, alert generation, and endpoint monitoring.
+- Shuffle: Automated the SOC workflows and handled alert processing.
+- TheHive: Served as the incident-response platform where alerts were turned into cases.
+- Cloud VMs: Hosted all the SOC tools in a small cloud environment.
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Steps
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
