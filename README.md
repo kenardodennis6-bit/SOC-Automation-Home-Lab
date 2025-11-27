@@ -57,6 +57,10 @@ This screenshot displays the Wazuh dashboard with connected agents. It confirms 
 
 *API Connections Between Wazuh, Shuffle, and TheHive*  
 ![API Connections](https://imgur.com/TLimMD9.png)  
+![API Connections](https://imgur.com/33GS5sM.png)  
+![API Connections](https://imgur.com/4pd9q1I.png) 
+![API Connections](hhttps://imgur.com/s4nuoOU.png) 
+![API Connections](https://imgur.com/WgBpkit.png) 
 This screenshot verifies that API connections were successfully established between all tools. These integrations enable automated alert forwarding, enrichment, and case creation across the SOC stack.
 
 ---
