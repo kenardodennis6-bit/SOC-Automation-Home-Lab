@@ -40,16 +40,24 @@ This diagram outlines the full architecture of my SOC Automation Lab. It shows h
 
 ---
 
-*Ref 3: Cloud Deployment Setup (Day 2)*  
-![Cloud Deployment](https://imgur.com/YMoRZlZ.png)  
-![Cloud Deployment](https://imgur.com/FM6Kkt9)
+*Cloud Deployment Setup*  
+Window Virtual Machine
+![Cloud Deployment](https://imgur.com/YMoRZlZ.png) 
+
+Wazuh Virtual Machine
+![Cloud Deployment](https://imgur.com/FM6Kkt9.png)  
+
+Thehive Virtual Machine
+![Cloud Deployment](https://imgur.com/9tU79un.png)  
+
 This screenshot shows the cloud virtual machine configuration used to deploy Wazuh, Shuffle, and TheHive. Security groups and network rules were configured to allow SOC tools to communicate securely and simulate realistic SOC infrastructure.
+
 
 
 ---
 
 *Ref 4: Wazuh Agent Connection (Day 3)*  
-![Wazuh Agents](https://i.imgur.com/placeholder.png)  
+![Wazuh Agents](https://imgur.com/YDR1jxU)  
 This screenshot displays the Wazuh dashboard with connected agents. It confirms that telemetry from the endpoint is successfully being ingested by the SIEM and that the agent installation and communication pipeline are functioning correctly.
 
 ---
