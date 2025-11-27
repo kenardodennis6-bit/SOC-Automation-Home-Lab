@@ -84,10 +84,10 @@ This screenshot shows the automatically created case in TheHive after Shuffle pr
 
 *Ref 10: Automated Email Notification (Day 5)*  
 ![Email Notification](https://i.imgur.com/placeholder.png)  
-This screenshot displays the automated email sent by Shuffle whenever a high-severity alert is converted into a case. (Ensure personal information is redacted.)
+This screenshot displays the automated email sent by Shuffle whenever a high-severity alert is converted into a case. 
 
 ---
 
 *Ref 11: Troubleshooting & Fixes*  
 ![Troubleshooting](https://i.imgur.com/placeholder.png)  
-This section contains screenshots of errors encountered during the lab setup and the solutions applied. Documenting troubleshooting demonstrates critical thinking, persistence, and an understanding of system behavior.
+This section contains screenshots of errors encountered during the lab setup and the solutions applied. 
