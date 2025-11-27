@@ -35,14 +35,16 @@ Example below.
 ---
 
 *Ref 2: Logical Diagram (Day 1)*  
-![Logical Diagram](https://i.imgur.com/placeholder.png)  
+![Logical Diagram](https://imgur.com/YMoRZlZ)  
 This diagram outlines the full architecture of my SOC Automation Lab. It shows how Wazuh ingests telemetry, how alerts flow into Shuffle for orchestration, and how cases are created in TheHive. Designing this helped me visualize the lab before deployment and ensured each component had clear communication paths.
 
 ---
 
 *Ref 3: Cloud Deployment Setup (Day 2)*  
-![Cloud Deployment](https://i.imgur.com/placeholder.png)  
+![Cloud Deployment](https://imgur.com/YMoRZlZ.png)  
+![Cloud Deployment](https://imgur.com/FM6Kkt9)
 This screenshot shows the cloud virtual machine configuration used to deploy Wazuh, Shuffle, and TheHive. Security groups and network rules were configured to allow SOC tools to communicate securely and simulate realistic SOC infrastructure.
+
 
 ---
 
