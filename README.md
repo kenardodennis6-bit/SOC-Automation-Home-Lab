@@ -21,7 +21,7 @@ For this project, I created a small SOC environment from scratch and automated t
 
 ## Steps
 
-*Network Diagram*  
+**Network Diagram**  
 ![Network Diagram](https://i.imgur.com/placeholder.png)
 
 ---
@@ -32,7 +32,7 @@ This diagram outlines the full architecture of my SOC Automation Lab. It shows h
 
 ---
 
-*Cloud Deployment Setup*  
+**Cloud Deployment Setup**  
 Window Virtual Machine
 ![Cloud Deployment](https://imgur.com/YMoRZlZ.png) 
 
@@ -48,14 +48,14 @@ This screenshot shows the cloud virtual machine configuration used to deploy Waz
 
 ---
 
-*Wazuh Agent Connection*  
+**Wazuh Agent Connection**  
 ![Wazuh Agents](https://imgur.com/bmHYrRs.png)  
 This screenshot displays the Wazuh dashboard with connected agents. It confirms that telemetry from the endpoint is successfully being ingested by the SIEM and that the agent installation and communication pipeline are functioning correctly.
 
 
 ---
 
-*API Connections Between Wazuh, Shuffle, and TheHive*  
+**API Connections Between Wazuh, Shuffle, and TheHive**  
 <table style="border-collapse: collapse; margin: auto;">
   <tr>
     <td style="padding: 6px;">
@@ -82,31 +82,31 @@ This screenshot verifies that API connections were successfully established betw
 
 ---
 
-*Mimikatz Telemetry Simulation*  
-![Mimikatz Telemetry](https://i.imgur.com/placeholder.png)  
+**Mimikatz Telemetry Simulation**
+![Mimikatz Telemetry](https://imgur.com/QkoGKnO.png)  
 This screenshot shows the telemetry generated from a simulated credential extraction attempt. Wazuh recorded and processed the suspicious activity, validating the SIEM’s ability to detect malicious behavior.
 
 ---
 
-*Wazuh Alert Triggered*  
+**Wazuh Alert Triggered**
 ![Wazuh Alert](https://imgur.com/YDR1jxU.png)  
 This screenshot captures the Wazuh alert triggered by the simulated Mimikatz activity. It demonstrates the SIEM’s detection capability and confirms that rules and decoders are properly configured.
 
 ---
 
-*Shuffle SOAR Workflow*  
-![Shuffle Workflow](https://i.imgur.com/placeholder.png)  
+**Shuffle SOAR Workflow**
+![Shuffle Workflow](https://imgur.com/TLimMD9.png)  
 This screenshot shows the Shuffle SOAR workflow used to automate the alert-handling process. The workflow enriches incoming Wazuh alerts, forwards them to TheHive, and triggers an analyst notification.
 
 ---
 
-*Auto-Generated Case in TheHive*  
+**Auto-Generated Case in TheHive**  
 ![TheHive Case](https://imgur.com/LcQq79i.png)  
 This screenshot shows the automatically created case in TheHive after Shuffle processed the alert. This demonstrates end-to-end SOC automation: detection → enrichment → case creation.
 
 ---
 
-*Ref 10: Automated Email Notification (Day 5)*  
+**Ref 10: Automated Email Notification (Day 5)**  
 ![Email Notification](https://imgur.com/fXYAhEp.png)  
 This screenshot displays the automated email sent by Shuffle whenever a high-severity alert is converted into a case. 
 
