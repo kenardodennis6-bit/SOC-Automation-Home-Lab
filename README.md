@@ -26,7 +26,7 @@ For this project, I created a small SOC environment from scratch and automated t
 
 ---
 
-*Logical Diagram *  
+**Logical Diagram**  
 ![Logical Diagram](https://imgur.com/YMoRZlZ)  
 This diagram outlines the full architecture of my SOC Automation Lab. It shows how Wazuh ingests telemetry, how alerts flow into Shuffle for orchestration, and how cases are created in TheHive. Designing this helped me visualize the lab before deployment and ensured each component had clear communication paths.
 
@@ -36,10 +36,10 @@ This diagram outlines the full architecture of my SOC Automation Lab. It shows h
 Window Virtual Machine
 ![Cloud Deployment](https://imgur.com/YMoRZlZ.png) 
 
-Wazuh Virtual Machine
+**Wazuh Virtual Machine**
 ![Cloud Deployment](https://imgur.com/FM6Kkt9.png)  
 
-Thehive Virtual Machine
+**Thehive Virtual Machine**
 ![Cloud Deployment](https://imgur.com/9tU79un.png)  
 
 This screenshot shows the cloud virtual machine configuration used to deploy Wazuh, Shuffle, and TheHive. Security groups and network rules were configured to allow SOC tools to communicate securely and simulate realistic SOC infrastructure.
