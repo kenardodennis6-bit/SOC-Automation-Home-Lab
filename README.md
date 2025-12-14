@@ -21,13 +21,9 @@ For this project, I created a small SOC environment from scratch and automated t
 
 ## Steps
 
-**Network Diagram**  
-![Network Diagram](https://i.imgur.com/placeholder.png)
-
----
 
 **Logical Diagram**  
-![Logical Diagram](https://imgur.com/YMoRZlZ)  
+![Logical Diagram](https://imgur.com/Cx5l37G.png)  
 This diagram outlines the full architecture of my SOC Automation Lab. It shows how Wazuh ingests telemetry, how alerts flow into Shuffle for orchestration, and how cases are created in TheHive. Designing this helped me visualize the lab before deployment and ensured each component had clear communication paths.
 
 ---
